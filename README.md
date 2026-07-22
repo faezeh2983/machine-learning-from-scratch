@@ -153,7 +153,7 @@ The steadily decreasing cost demonstrates that the optimization process successf
 The figure below shows how the cost decreases during Gradient Descent.
 
 ```markdown
-![Cost Curve](images/cost_curve.png)
+![Cost Curve](cost_curve.png)
 ```
 
 > Replace `images/cost_curve.png` with your generated plot.
